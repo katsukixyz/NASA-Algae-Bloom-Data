@@ -1,4 +1,6 @@
 # NASA-Algae-Bloom-Data
+Chlorophyll, salinity, and sea surface temperature in the Gulf of Mexico to study algae blooms.  
+
 ## Data Collection:
 Data queried from 3 NASA satellites:  
 CHLOROPHYLL: https://neo.sci.gsfc.nasa.gov/view.php?datasetId=MY1DMM_CHLORA  
